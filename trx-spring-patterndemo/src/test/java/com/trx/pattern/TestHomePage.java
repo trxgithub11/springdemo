@@ -1,4 +1,4 @@
-package com.trx.example;
+package com.trx.pattern;
 
 import com.trx.pattern.HomePage;
 import junit.framework.TestCase;

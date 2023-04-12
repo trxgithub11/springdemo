@@ -1,4 +1,4 @@
-package com.trx.example;
+package com.trx.pattern;
 
 import org.mortbay.jetty.Connector;
 import org.mortbay.jetty.Server;
