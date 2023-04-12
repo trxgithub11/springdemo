@@ -10,6 +10,7 @@
         <module name="trx-spring-Annotation" />
         <module name="trx-spring-aop" />
         <module name="trx-spring-aopxml" />
+        <module name="trx-spring-patterndemo" />
       </profile>
     </annotationProcessing>
   </component>

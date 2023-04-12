@@ -12,6 +12,7 @@
         <module>trx-spring-Annotation</module>
         <module>trx-spring-aopxml</module>
         <module>trx-spring-aop</module>
+        <module>trx-spring-patterndemo</module>
     </modules>
 
 
